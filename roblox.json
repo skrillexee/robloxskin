@@ -1,8 +1,8 @@
 {  "Ads": [
     {
-       "select_main_ads": "IRON",
+       "select_main_ads": "ADMOB",
       "select_backup_ads":"UNITY",
-      "main_ads_banner": "null",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"null",
       "backup_ads_banner":"Banner_Android",
       "backup_ads_intertitial":"Interstitial_Android",
