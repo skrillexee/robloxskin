@@ -1,0 +1,138 @@
+{  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "link_more_app":""
+    
+    }
+    ],
+  "Guide":
+  [
+    {
+    "id":"1",
+     "url_guide":"https://aliendro.id/projek/roblox/guide1.html"
+    },{
+    "id":"2",
+     "url_guide":"https://aliendro.id/projek/roblox/guide2.html"
+    },{
+    "id":"3",
+     "url_guide":"https://aliendro.id/projek/roblox/guide3.html"
+    }
+    
+  ],"Wallpaper":
+  [
+    {
+     "image":"https://mfiles.alphacoders.com/745/thumb-1920-745099.jpg"
+    },{
+     "image":"https://fsb.zobj.net/crop.php?r=Fbmk_luQ6pdfVufIQ_4Izr2eGcDeBmEUJ2VJSmX9ZJnMWdIEBHF3kG_ifmCySTAXf5qMM2Gch3ucyE5sRoYnyBWnV8adT8C9m7nEyhCY1Kzq0Po_WCM9YyaAFeknYJbMgrtOwjvdgUvviUku"
+    },{
+     "image":"https://fsa.zobj.net/crop.php?r=HSSS66DV-FZx34otqEGgvcp_JJ7n4t_GUzU0JRMDuNyAyZ9QBvuGYj-alTrR1oP9jZ0sPDen1zmL-p4syuTMcYa3SXgS5IFOgdQyLINAuuxZyauLHQP8olP-7cU0yq5q_27xIajdBG81Onzq"
+    },{
+     "image":"https://fsb.zobj.net/crop.php?r=KA1odlQ6kEud3wcymFdXjQBpP5dzLRqSphgn_HzvzSUjlNe9Rg0WqKFTyC2tsiYH4MSYhaTPqxq6cvheA45dxfdM8vj_gxjcq1tSCGzOIlf6gTfrfxrsMaZMkmHt7SlR1KQcww5CjEPDF9ac"
+    },{
+     "image":"https://fsa.zobj.net/crop.php?r=k36y0Xh3ynzvTZ1EBBedEOZYbmbtEklzxHvfYRDUzL-6hXjTh7sb3lF1h6tihnEKwIPAAzg9t1C4mg-wK1er-PdijWixTpanGpIg_GPkYb5Kd2QrZY2RGsWc773U-zlXxByAqibuWGwFpjAH"
+    },{
+     "image":"https://fsb.zobj.net/crop.php?r=mHs3oxfEP3vlvj1AoI79Q0dWKLmwgBaTadFfvT-IsZAgoi0rpltXUA9aUcaCIlg0hLjnDA19pggBa8T_tYBi22iNybC0_QArtdE5uJdkkrkRozXK2WTFSS0RgZMVr639BcPDsUvVA0vUV6ku"
+    }
+    
+  ],
+  "Skin":
+  [
+    {
+      "name_skin":"Paladin",
+      "image":"https://tr.rbxcdn.com/69bbcd58a12a33c843c8709a592658a5/420/420/Avatar/Png",
+      "link":"https://www.roblox.com/bundles/338/Knights-of-Redcliff-Paladin"
+    },  {
+      "name_skin":"Junkbot",
+      "image":"https://tr.rbxcdn.com/2b5b6b1b01bff387c908208835d1f280/420/420/Avatar/Png",
+      "link":"https://www.roblox.com/bundles/589/Junkbot"
+    } , {
+      "name_skin":"Oliver",
+      "image":"https://tr.rbxcdn.com/99ee8267531c9df0da9052e4e0e6d9c9/420/420/Avatar/Png",
+      "link":"https://www.roblox.com/bundles/573/Oliver"
+    } , {
+      "name_skin":"Kenneth",
+      "image":"https://tr.rbxcdn.com/5889670b931ea88fe2dc16c7e0f6d30c/420/420/Avatar/Png",
+      "link":"https://www.roblox.com/bundles/608/Kenneth"
+    }, {
+      "name_skin":"Squad Ghouls",
+      "image":"https://tr.rbxcdn.com/a0b088317f77e317db9f2f2b919f85c2/420/420/Avatar/Png",
+      "link":"https://www.roblox.com/bundles/341/Squad-Ghouls-Drop-Dead-Tedd"
+    }, {
+      "name_skin":"Dennis",
+      "image":"https://tr.rbxcdn.com/691451c0d0b889422ffe2e67e9e45c6f/420/420/Avatar/Png",
+      "link":"https://www.roblox.com/bundles/605/Dennis"
+    }
+    
+  ],
+   "PartSkin":
+  [
+    {
+      "name_skin":"Paladin",
+      "image":"https://tr.rbxcdn.com/0bdb0f7c43659fed9b5d465f4488f1c2/420/420/BodyPart_LeftArm/Png",
+      "link":"https://www.roblox.com/catalog/2493559059/Knights-of-Redcliff-Paladin-Left-Arm"
+    },{
+      "name_skin":"Paladin",
+      "image":"https://tr.rbxcdn.com/dc738ce3d0594ad8d947d9ad11530672/420/420/Face/Png",
+      "link":"https://www.roblox.com/catalog/2493587489/Knights-of-Redcliff-Paladin-Face"
+    },{
+      "name_skin":"Paladin",
+      "image":"https://tr.rbxcdn.com/8f81cb4a04d3b5764981b08b54e89378/420/420/Hat/Png",
+      "link":"https://www.roblox.com/catalog/2493590711/Knights-of-Redcliff-Paladin-Helmet"
+    },{
+      "name_skin":"Paladin",
+      "image":"https://tr.rbxcdn.com/daeb260a4e8cf1cb6e0de6a48518a892/420/420/BodyPart_Torso/Png",
+      "link":"https://www.roblox.com/catalog/2493586650/Knights-of-Redcliff-Paladin-Torso"
+    },{
+      "name_skin":"Oliver",
+      "image":"https://tr.rbxcdn.com/23d5061baeffdb3d429de2f2ac93c53e/420/420/BodyPart_LeftArm/Png",
+      "link":"https://www.roblox.com/catalog/3963861732/Oliver-Left-Arm"
+    },{
+      "name_skin":"Oliver",
+      "image":"https://tr.rbxcdn.com/cfb9ecb9a9be754cc360196c3bc8f293/420/420/BodyPart_LeftLeg/Png",
+      "link":"https://www.roblox.com/catalog/3963864909/Oliver-Left-Leg"
+    },{
+      "name_skin":"Oliver",
+      "image":"https://tr.rbxcdn.com/0b89e1aee66813c9196866f738b2b5ef/420/420/Hat/Png",
+      "link":"https://www.roblox.com/catalog/3963874672/Oliver-Hair"
+    }
+    
+  ],
+
+   "FreeItem":
+  [
+    {
+      "name_skin":"Down to Earth Hair",
+      "type":"Accessory",
+      "image":"https://tr.rbxcdn.com/c77b7d7f04e26199a9612bac2004bfe3/420/420/Hat/Png",
+      "link":"https://www.roblox.com/catalog/1772336109/Down-to-Earth-Hair"
+    },
+     {
+      "name_skin":"Man",
+      "type":"Bundle",
+      "image":"https://tr.rbxcdn.com/16760520b52f1fff2941c7631974b24d/420/420/Avatar/Png",
+      "link":"https://www.roblox.com/bundles/238/Man"
+    },
+     {
+      "name_skin":"Blox Fruits",
+      "type":"Games",
+      "image":"https://t6.rbxcdn.com/3aa2724fe8403ee82bad904cbdcf40a8",
+      "link":"https://www.roblox.com/games/2753915549/UPDATE-14-Blox-Fruits?refPageId=dadca36c-dd0d-478b-accd-6fa597153c8c"
+    }
+    
+  ]
+}
